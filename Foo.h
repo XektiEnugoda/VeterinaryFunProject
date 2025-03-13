@@ -1,4 +1,5 @@
 // Online C++ compiler to run C++ program online
+#include <iomanip>
 #include <iostream>
 template<typename T> class Foo
 {
