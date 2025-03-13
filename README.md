@@ -1,3 +1,2 @@
 # VeterinaryFunProject
-An individual project which is to practice C++
-<br \>A Veterinary Clinic 
+An individual project which is to practice C++ - A Veterinary Clinic 
