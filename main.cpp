@@ -1,3 +1,5 @@
+#include "Foo.h"
+
 int main() {
     // Write C++ code here
     out("Welcome!");
